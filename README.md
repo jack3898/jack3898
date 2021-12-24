@@ -1,16 +1,13 @@
-### Hi there 👋
+# Y'ello!
 
-<!--
-**jack3898/jack3898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jack Wright, and I work full time as a web developer. This account is my personal account, and won't show any professional projects.
 
-Here are some ideas to get you started:
+I definitely need to try and spice up this about me section. I'll do that later. 😂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+I am predominently a web developer. I write TypeScript applications, and professionally do some C# as well.
+
+I can write a website full-stack with React or Angular, and also have experience with SQL databases.
+
+I enjoy coding in my free time sometimes! You can see what I work on in the pinned section.
