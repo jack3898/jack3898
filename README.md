@@ -1,13 +1,7 @@
-# Y'ello!
+## Me!
 
-My name is Jack Wright, and I work full time as a web developer. This account is my personal account, and won't show any professional projects.
+I am predominantly a web developer. Websites are my thing! I do all sorts, from front-end to back-end, and everything in between. TypeScript is my speciality, but I also dabble in some Rust occasionally. 😄
 
-I definitely need to try and spice up this about me section. I'll do that later. 😂
+The projects you'll find here are mostly just for fun, and are usually just me messing around with something new. I'm always looking to learn new things, and I'm always looking for new projects to work on. Usually, the projects I work on are just for me, but I share them in case someone else finds them useful.
 
-## Skills
-
-I am predominently a web developer. Websites are my thing!
-
-I can write a website full-stack with React or Angular, and also have experience with SQL databases.
-
-I enjoy coding in my free time sometimes! You can see what I work on in the pinned section.
+My full-time occupation is writing software for the UK healthcare sector (NHS) with Docker, React, TypeScript, GraphQL, MongoDB, and Node.js. I enjoy it a lot!
